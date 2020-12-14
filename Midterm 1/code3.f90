@@ -24,7 +24,4 @@ if (0 < z .AND. z < 6) then
 	
 end if
 
-
-
-
 end program Code3
